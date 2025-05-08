@@ -1,0 +1,28 @@
+[
+    {
+        "Username" : "Admin",
+        "Password" : "admin123",
+        "Expected" : "Felipe Castilhos"
+
+    },
+    {
+        "Username" : "xyz",
+        "Password" : "admin123",
+        "Expected" : "Invalid credentials"
+    },
+    {
+        "Username" : "zzz",
+        "Password" : "admin123",
+        "Expected" : "Invalid credentials"
+    },
+    {
+        "Username" : "mass",
+        "Password" : "admin123",
+        "Expected" : "Invalid credentials"
+    },
+    {
+        "Username" : "kzz",
+        "Password" : "admin123",
+        "Expected" : "Invalid credentials"
+    }
+]
